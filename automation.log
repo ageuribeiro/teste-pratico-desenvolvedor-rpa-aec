@@ -1,0 +1,160 @@
+2024-07-18 16:50:46,230 - INFO - Iniciando automação da Book Store
+2024-07-18 16:50:46,232 - INFO - Página da Book Store acessada com sucesso
+2024-07-18 16:50:46,233 - INFO - Livros adicionados à coleção com sucesso
+2024-07-18 16:50:46,236 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:50:51,237 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:50:56,237 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:51:01,239 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:51:06,240 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:51:11,244 - INFO - Iniciando automação da Book Store
+2024-07-18 16:51:18,106 - INFO - Página da Book Store acessada com sucesso
+2024-07-18 16:51:18,809 - INFO - Title: Git Pocket Guide, Author: Richard E. Silverman, Publisher: O'Reilly Media
+2024-07-18 16:51:18,845 - INFO - Title: Learning JavaScript Design Patterns, Author: Addy Osmani, Publisher: O'Reilly Media
+2024-07-18 16:51:18,865 - INFO - Title: Designing Evolvable Web APIs with ASP.NET, Author: Glenn Block et al., Publisher: O'Reilly Media
+2024-07-18 16:51:18,905 - INFO - Title: Speaking JavaScript, Author: Axel Rauschmayer, Publisher: O'Reilly Media
+2024-07-18 16:51:18,931 - INFO - Title: You Don't Know JS, Author: Kyle Simpson, Publisher: O'Reilly Media
+2024-07-18 16:51:18,978 - INFO - Title: Programming JavaScript Applications, Author: Eric Elliott, Publisher: O'Reilly Media
+2024-07-18 16:51:19,004 - INFO - Title: Eloquent JavaScript, Second Edition, Author: Marijn Haverbeke, Publisher: No Starch Press
+2024-07-18 16:51:19,029 - INFO - Title: Understanding ECMAScript 6, Author: Nicholas C. Zakas, Publisher: No Starch Press
+2024-07-18 16:51:19,051 - INFO - Title: , Author: , Publisher: 
+2024-07-18 16:51:19,079 - INFO - Title: , Author: , Publisher: 
+2024-07-18 16:51:19,079 - INFO - Livros adicionados à coleção com sucesso
+2024-07-18 16:51:19,080 - INFO - Dados exportados para books_data.csv
+2024-07-18 16:51:19,081 - INFO - Dados exportados para books_data.xlsx
+2024-07-18 16:51:21,339 - INFO - Test Message
+2024-07-18 16:51:21,341 - INFO - Credenciais Inválidas
+2024-07-18 16:51:21,344 - INFO - Login bem sucedido!
+2024-07-18 16:51:31,346 - INFO - Iniciando todas as automações
+2024-07-18 16:51:31,346 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:51:31,346 - INFO - Iniciando automação da seção Elements
+2024-07-18 16:51:47,968 - ERROR - Ocorreu um erro durante a automação de Elements: Message: 
+
+2024-07-18 16:51:50,243 - INFO - Automação <lambda> finalizada
+2024-07-18 16:51:50,244 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:51:50,244 - INFO - Iniciando automação da seção Forms
+2024-07-18 16:52:05,835 - ERROR - Ocorreu um erro durante a automação de Forms: Message: 
+
+2024-07-18 16:52:08,171 - INFO - Automação <lambda> finalizada
+2024-07-18 16:52:08,172 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:52:08,172 - INFO - Iniciando automação da seção Alerts, Frame & Windows
+2024-07-18 16:52:23,872 - ERROR - Ocorreu um erro durante a automação de Alerts, Frame & Windows: Message: 
+
+2024-07-18 16:52:26,133 - INFO - Automação <lambda> finalizada
+2024-07-18 16:52:26,133 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:52:26,133 - INFO - Iniciando automação da seção Widgets
+2024-07-18 16:52:45,287 - ERROR - Ocorreu um erro durante a automação de Widgets: Message: 
+
+2024-07-18 16:52:47,601 - INFO - Automação <lambda> finalizada
+2024-07-18 16:52:47,602 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:52:47,602 - INFO - Iniciando automação da seção Interactions
+2024-07-18 16:53:03,123 - ERROR - Ocorreu um erro durante a automação de Interactions: Message: 
+
+2024-07-18 16:53:05,429 - INFO - Automação <lambda> finalizada
+2024-07-18 16:53:05,429 - INFO - Iniciando automação: bookstore
+2024-07-18 16:53:05,430 - INFO - Iniciando automação da Book Store
+2024-07-18 16:53:10,881 - INFO - Página da Book Store acessada com sucesso
+2024-07-18 16:53:11,477 - INFO - Title: Git Pocket Guide, Author: Richard E. Silverman, Publisher: O'Reilly Media
+2024-07-18 16:53:11,507 - INFO - Title: Learning JavaScript Design Patterns, Author: Addy Osmani, Publisher: O'Reilly Media
+2024-07-18 16:53:11,529 - INFO - Title: Designing Evolvable Web APIs with ASP.NET, Author: Glenn Block et al., Publisher: O'Reilly Media
+2024-07-18 16:53:11,553 - INFO - Title: Speaking JavaScript, Author: Axel Rauschmayer, Publisher: O'Reilly Media
+2024-07-18 16:53:11,599 - INFO - Title: You Don't Know JS, Author: Kyle Simpson, Publisher: O'Reilly Media
+2024-07-18 16:53:11,622 - INFO - Title: Programming JavaScript Applications, Author: Eric Elliott, Publisher: O'Reilly Media
+2024-07-18 16:53:11,644 - INFO - Title: Eloquent JavaScript, Second Edition, Author: Marijn Haverbeke, Publisher: No Starch Press
+2024-07-18 16:53:11,669 - INFO - Title: Understanding ECMAScript 6, Author: Nicholas C. Zakas, Publisher: No Starch Press
+2024-07-18 16:53:11,692 - INFO - Title: , Author: , Publisher: 
+2024-07-18 16:53:11,713 - INFO - Title: , Author: , Publisher: 
+2024-07-18 16:53:11,713 - INFO - Livros adicionados à coleção com sucesso
+2024-07-18 16:53:11,727 - INFO - Dados exportados para books_data.csv
+2024-07-18 16:53:11,753 - INFO - Dados exportados para books_data.xlsx
+2024-07-18 16:53:13,947 - INFO - Automação bookstore finalizada
+2024-07-18 16:53:13,948 - INFO - Todas as automações finalizadas
+2024-07-18 16:54:06,669 - INFO - Iniciando automação da Book Store
+2024-07-18 16:54:06,672 - INFO - Página da Book Store acessada com sucesso
+2024-07-18 16:54:06,672 - INFO - Livros adicionados à coleção com sucesso
+2024-07-18 16:54:06,676 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:54:11,677 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:54:16,678 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:54:21,679 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:54:26,680 - ERROR - Erro ao tentar conectar ao Banco de Dados: (builtins.str) 
+[SQL: Database error]
+(Background on this error at: https://sqlalche.me/e/20/e3q8)
+2024-07-18 16:54:31,687 - INFO - Iniciando automação da Book Store
+2024-07-18 16:54:48,124 - INFO - Página da Book Store acessada com sucesso
+2024-07-18 16:54:48,713 - INFO - Title: Git Pocket Guide, Author: Richard E. Silverman, Publisher: O'Reilly Media
+2024-07-18 16:54:48,745 - INFO - Title: Learning JavaScript Design Patterns, Author: Addy Osmani, Publisher: O'Reilly Media
+2024-07-18 16:54:48,767 - INFO - Title: Designing Evolvable Web APIs with ASP.NET, Author: Glenn Block et al., Publisher: O'Reilly Media
+2024-07-18 16:54:48,789 - INFO - Title: Speaking JavaScript, Author: Axel Rauschmayer, Publisher: O'Reilly Media
+2024-07-18 16:54:48,812 - INFO - Title: You Don't Know JS, Author: Kyle Simpson, Publisher: O'Reilly Media
+2024-07-18 16:54:48,835 - INFO - Title: Programming JavaScript Applications, Author: Eric Elliott, Publisher: O'Reilly Media
+2024-07-18 16:54:48,858 - INFO - Title: Eloquent JavaScript, Second Edition, Author: Marijn Haverbeke, Publisher: No Starch Press
+2024-07-18 16:54:48,882 - INFO - Title: Understanding ECMAScript 6, Author: Nicholas C. Zakas, Publisher: No Starch Press
+2024-07-18 16:54:48,928 - INFO - Title: , Author: , Publisher: 
+2024-07-18 16:54:48,949 - INFO - Title: , Author: , Publisher: 
+2024-07-18 16:54:48,949 - INFO - Livros adicionados à coleção com sucesso
+2024-07-18 16:54:48,949 - INFO - Dados exportados para books_data.csv
+2024-07-18 16:54:48,950 - INFO - Dados exportados para books_data.xlsx
+2024-07-18 16:54:51,189 - INFO - Test Message
+2024-07-18 16:54:51,190 - INFO - Credenciais Inválidas
+2024-07-18 16:54:51,192 - INFO - Login bem sucedido!
+2024-07-18 16:55:01,192 - INFO - Iniciando todas as automações
+2024-07-18 16:55:01,192 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:55:01,192 - INFO - Iniciando automação da seção Elements
+2024-07-18 16:55:17,102 - ERROR - Ocorreu um erro durante a automação de Elements: Message: 
+
+2024-07-18 16:55:20,915 - INFO - Automação <lambda> finalizada
+2024-07-18 16:55:20,916 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:55:20,916 - INFO - Iniciando automação da seção Forms
+2024-07-18 16:55:40,538 - ERROR - Ocorreu um erro durante a automação de Forms: Message: 
+
+2024-07-18 16:55:42,812 - INFO - Automação <lambda> finalizada
+2024-07-18 16:55:42,812 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:55:42,812 - INFO - Iniciando automação da seção Alerts, Frame & Windows
+2024-07-18 16:55:58,452 - ERROR - Ocorreu um erro durante a automação de Alerts, Frame & Windows: Message: 
+
+2024-07-18 16:56:00,762 - INFO - Automação <lambda> finalizada
+2024-07-18 16:56:00,762 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:56:00,762 - INFO - Iniciando automação da seção Widgets
+2024-07-18 16:56:16,676 - ERROR - Ocorreu um erro durante a automação de Widgets: Message: 
+
+2024-07-18 16:56:18,935 - INFO - Automação <lambda> finalizada
+2024-07-18 16:56:18,936 - INFO - Iniciando automação: <lambda>
+2024-07-18 16:56:18,936 - INFO - Iniciando automação da seção Interactions
+2024-07-18 16:56:34,615 - ERROR - Ocorreu um erro durante a automação de Interactions: Message: 
+
+2024-07-18 16:56:36,855 - INFO - Automação <lambda> finalizada
+2024-07-18 16:56:36,856 - INFO - Iniciando automação: bookstore
+2024-07-18 16:56:36,856 - INFO - Iniciando automação da Book Store
+2024-07-18 16:56:42,117 - INFO - Página da Book Store acessada com sucesso
+2024-07-18 16:56:42,682 - INFO - Title: Git Pocket Guide, Author: Richard E. Silverman, Publisher: O'Reilly Media
+2024-07-18 16:56:42,708 - INFO - Title: Learning JavaScript Design Patterns, Author: Addy Osmani, Publisher: O'Reilly Media
+2024-07-18 16:56:42,731 - INFO - Title: Designing Evolvable Web APIs with ASP.NET, Author: Glenn Block et al., Publisher: O'Reilly Media
+2024-07-18 16:56:42,759 - INFO - Title: Speaking JavaScript, Author: Axel Rauschmayer, Publisher: O'Reilly Media
+2024-07-18 16:56:42,788 - INFO - Title: You Don't Know JS, Author: Kyle Simpson, Publisher: O'Reilly Media
+2024-07-18 16:56:42,818 - INFO - Title: Programming JavaScript Applications, Author: Eric Elliott, Publisher: O'Reilly Media
+2024-07-18 16:56:42,850 - INFO - Title: Eloquent JavaScript, Second Edition, Author: Marijn Haverbeke, Publisher: No Starch Press
+2024-07-18 16:56:42,917 - INFO - Title: Understanding ECMAScript 6, Author: Nicholas C. Zakas, Publisher: No Starch Press
+2024-07-18 16:56:42,946 - INFO - Title: , Author: , Publisher: 
+2024-07-18 16:56:42,975 - INFO - Title: , Author: , Publisher: 
+2024-07-18 16:56:42,975 - INFO - Livros adicionados à coleção com sucesso
+2024-07-18 16:56:42,981 - INFO - Dados exportados para books_data.csv
+2024-07-18 16:56:42,999 - INFO - Dados exportados para books_data.xlsx
+2024-07-18 16:56:45,193 - INFO - Automação bookstore finalizada
+2024-07-18 16:56:45,194 - INFO - Todas as automações finalizadas

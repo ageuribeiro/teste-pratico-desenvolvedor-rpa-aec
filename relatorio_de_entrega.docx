@@ -12,6 +12,15 @@ Ocorreram alguns erros de digitação, mas coisas simples que não demandou muit
 
 Na parte de exportação dos dados não houve nehuma dificuldade.
 
+No desenvolvimento da aplicação desktop não houve dificuldades relevantes, apenas foi necessário determinar a sequencia correta das etapas emuladas pelas tarefas feito por um humano para criar um alarme com as caracteristicas apresentadas.
+
+Após a perfeita compreensão dos passo a passos para se fazer uma determinada ação repetiviva como a criação de um alarme. ficou claro como deveria elaborar a codificação e automação do processo.
+
+
+Para utilizar os testes foi utilizado as bibliotecas unittest para o aplicativo desktop e flask-testing e pytest para a aplicação web
+
+Os nomes dos arquivos de teste segue o mesmo nome dos arquivos originais adicionando o termo test_ no inicio do nome do arquivo.
+
 As tecnologias utilizada nessa solução foram:
 Linguagem Python e bibliotecas internas
 Biblioteca Selenium
