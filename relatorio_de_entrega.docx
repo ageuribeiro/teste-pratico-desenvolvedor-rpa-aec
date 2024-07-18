@@ -1,0 +1,21 @@
+Relatório de Entrega 
+
+Durante a execução e desenvolvimento me deparei com alguns erros de sintaxe de busca das tags e seletores utilizando a biblioteca selenium.
+Não houve dificuldade, mas sim um teste de adaptação entre utilizar o By.CSS_SELECTOR e o By.XPATH. 
+Utilizando o By.CSS_SELECTOR verifiquei um resultado mais satisfatório, pois o processamente ocorreu em menos tempo do que se estivesse utilizando By.XPATH.
+
+Ocorreram alguns erros na Conexão com o Banco de Dados pois na URL de Conexão com o Banco de Dados a versão do drive não era compativel e o nome do servidor estava incorreto. Após a correção funcionou normalmente.
+
+No Início do desenvolvimento decide fazer uma função para cada seção da pagina a ser automatizada. Para entender se haveria alguma compartamento diferente entre as seções. Após entender que os processos eram similares, reoslvi simplicar o código para otimizar o tempo de execução e diminuir a quantidade de linhas tanto no script principal quanto no arquivo de log.
+
+Ocorreram alguns erros de digitação, mas coisas simples que não demandou muito tempo para ser solucionada.
+
+Na parte de exportação dos dados não houve nehuma dificuldade.
+
+As tecnologias utilizada nessa solução foram:
+Linguagem Python e bibliotecas internas
+Biblioteca Selenium
+Biblioteca Pandas
+SQL Server Developer 2022
+Visual Studio Code
+Navegador Google Chrome

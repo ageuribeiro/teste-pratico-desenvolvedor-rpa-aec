@@ -1,0 +1,110 @@
+2024-07-17 22:50:00,573 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-17 22:50:00,573 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-17 22:50:00,575 - INFO -  * Restarting with stat
+2024-07-17 22:50:01,750 - WARNING -  * Debugger is active!
+2024-07-17 22:50:01,753 - INFO -  * Debugger PIN: 875-262-995
+2024-07-17 22:50:13,248 - INFO - Login bem sucedido!
+2024-07-17 22:50:23,249 - INFO - Iniciando todas as automações
+2024-07-17 22:50:23,249 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:50:23,249 - INFO - Iniciando automação da seção Elements
+2024-07-17 22:50:46,345 - ERROR - Ocorreu um erro durante a automação de Elements: Message: 
+
+2024-07-17 22:50:48,598 - INFO - Automação <lambda> finalizada
+2024-07-17 22:50:48,598 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:50:48,598 - INFO - Iniciando automação da seção Forms
+2024-07-17 22:51:11,464 - ERROR - Ocorreu um erro durante a automação de Forms: Message: 
+
+2024-07-17 22:51:13,704 - INFO - Automação <lambda> finalizada
+2024-07-17 22:51:13,704 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:51:13,704 - INFO - Iniciando automação da seção Alerts, Frame & Windows
+2024-07-17 22:51:31,590 - ERROR - Ocorreu um erro durante a automação de Alerts, Frame & Windows: Message: 
+
+2024-07-17 22:51:34,292 - INFO - Automação <lambda> finalizada
+2024-07-17 22:51:34,292 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:51:34,292 - INFO - Iniciando automação da seção Widgets
+2024-07-17 22:51:56,976 - ERROR - Ocorreu um erro durante a automação de Widgets: Message: 
+
+2024-07-17 22:51:59,191 - INFO - Automação <lambda> finalizada
+2024-07-17 22:51:59,191 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:51:59,191 - INFO - Iniciando automação da seção Interactions
+2024-07-17 22:52:16,447 - ERROR - Ocorreu um erro durante a automação de Interactions: Message: 
+
+2024-07-17 22:52:18,691 - INFO - Automação <lambda> finalizada
+2024-07-17 22:52:18,691 - INFO - Iniciando automação: bookstore
+2024-07-17 22:52:18,691 - INFO - Iniciando automação da Book Store
+2024-07-17 22:52:30,782 - INFO - Página da Book Store acessada com sucesso
+2024-07-17 22:52:31,351 - INFO - Title: Git Pocket Guide, Author: Richard E. Silverman, Publisher: O'Reilly Media
+2024-07-17 22:52:31,379 - INFO - Title: Learning JavaScript Design Patterns, Author: Addy Osmani, Publisher: O'Reilly Media
+2024-07-17 22:52:31,444 - INFO - Title: Designing Evolvable Web APIs with ASP.NET, Author: Glenn Block et al., Publisher: O'Reilly Media
+2024-07-17 22:52:31,479 - INFO - Title: Speaking JavaScript, Author: Axel Rauschmayer, Publisher: O'Reilly Media
+2024-07-17 22:52:31,525 - INFO - Title: You Don't Know JS, Author: Kyle Simpson, Publisher: O'Reilly Media
+2024-07-17 22:52:31,548 - INFO - Title: Programming JavaScript Applications, Author: Eric Elliott, Publisher: O'Reilly Media
+2024-07-17 22:52:31,573 - INFO - Title: Eloquent JavaScript, Second Edition, Author: Marijn Haverbeke, Publisher: No Starch Press
+2024-07-17 22:52:31,596 - INFO - Title: Understanding ECMAScript 6, Author: Nicholas C. Zakas, Publisher: No Starch Press
+2024-07-17 22:52:31,622 - INFO - Title: , Author: , Publisher: 
+2024-07-17 22:52:31,647 - INFO - Title: , Author: , Publisher: 
+2024-07-17 22:52:31,647 - INFO - Livros adicionados à coleção com sucesso
+2024-07-17 22:52:31,661 - INFO - Dados exportados para books_data.csv
+2024-07-17 22:52:31,670 - ERROR - Ocorreu um erro durante a automação da Book Store: No module named 'openpyxl'
+2024-07-17 22:52:33,895 - INFO - Automação bookstore finalizada
+2024-07-17 22:52:33,895 - INFO - Todas as automações finalizadas
+2024-07-17 22:52:33,896 - INFO - 127.0.0.1 - - [17/Jul/2024 22:52:33] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-07-17 22:52:33,907 - INFO - 127.0.0.1 - - [17/Jul/2024 22:52:33] "GET / HTTP/1.1" 200 -
+2024-07-17 22:52:33,998 - INFO - 127.0.0.1 - - [17/Jul/2024 22:52:33] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
+2024-07-17 22:53:18,553 - INFO -  * Detected change in 'C:\\Users\\agl_r\\rpa_aec\\libraries.py', reloading
+2024-07-17 22:53:18,697 - INFO -  * Restarting with stat
+2024-07-17 22:53:59,587 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-07-17 22:53:59,587 - INFO - [33mPress CTRL+C to quit[0m
+2024-07-17 22:53:59,589 - INFO -  * Restarting with stat
+2024-07-17 22:54:00,844 - WARNING -  * Debugger is active!
+2024-07-17 22:54:00,848 - INFO -  * Debugger PIN: 875-262-995
+2024-07-17 22:54:32,942 - INFO - Login bem sucedido!
+2024-07-17 22:54:42,944 - INFO - Iniciando todas as automações
+2024-07-17 22:54:42,944 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:54:42,944 - INFO - Iniciando automação da seção Elements
+2024-07-17 22:55:06,137 - ERROR - Ocorreu um erro durante a automação de Elements: Message: 
+
+2024-07-17 22:55:08,355 - INFO - Automação <lambda> finalizada
+2024-07-17 22:55:08,355 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:55:08,355 - INFO - Iniciando automação da seção Forms
+2024-07-17 22:55:30,230 - ERROR - Ocorreu um erro durante a automação de Forms: Message: 
+
+2024-07-17 22:55:32,462 - INFO - Automação <lambda> finalizada
+2024-07-17 22:55:32,462 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:55:32,462 - INFO - Iniciando automação da seção Alerts, Frame & Windows
+2024-07-17 22:55:55,691 - ERROR - Ocorreu um erro durante a automação de Alerts, Frame & Windows: Message: 
+
+2024-07-17 22:55:57,927 - INFO - Automação <lambda> finalizada
+2024-07-17 22:55:57,927 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:55:57,927 - INFO - Iniciando automação da seção Widgets
+2024-07-17 22:56:15,942 - ERROR - Ocorreu um erro durante a automação de Widgets: Message: 
+
+2024-07-17 22:56:18,182 - INFO - Automação <lambda> finalizada
+2024-07-17 22:56:18,182 - INFO - Iniciando automação: <lambda>
+2024-07-17 22:56:18,182 - INFO - Iniciando automação da seção Interactions
+2024-07-17 22:56:41,930 - ERROR - Ocorreu um erro durante a automação de Interactions: Message: 
+
+2024-07-17 22:56:44,159 - INFO - Automação <lambda> finalizada
+2024-07-17 22:56:44,159 - INFO - Iniciando automação: bookstore
+2024-07-17 22:56:44,159 - INFO - Iniciando automação da Book Store
+2024-07-17 22:56:57,280 - INFO - Página da Book Store acessada com sucesso
+2024-07-17 22:56:57,855 - INFO - Title: Git Pocket Guide, Author: Richard E. Silverman, Publisher: O'Reilly Media
+2024-07-17 22:56:57,957 - INFO - Title: Learning JavaScript Design Patterns, Author: Addy Osmani, Publisher: O'Reilly Media
+2024-07-17 22:56:58,016 - INFO - Title: Designing Evolvable Web APIs with ASP.NET, Author: Glenn Block et al., Publisher: O'Reilly Media
+2024-07-17 22:56:58,051 - INFO - Title: Speaking JavaScript, Author: Axel Rauschmayer, Publisher: O'Reilly Media
+2024-07-17 22:56:58,080 - INFO - Title: You Don't Know JS, Author: Kyle Simpson, Publisher: O'Reilly Media
+2024-07-17 22:56:58,110 - INFO - Title: Programming JavaScript Applications, Author: Eric Elliott, Publisher: O'Reilly Media
+2024-07-17 22:56:58,139 - INFO - Title: Eloquent JavaScript, Second Edition, Author: Marijn Haverbeke, Publisher: No Starch Press
+2024-07-17 22:56:58,195 - INFO - Title: Understanding ECMAScript 6, Author: Nicholas C. Zakas, Publisher: No Starch Press
+2024-07-17 22:56:58,255 - INFO - Title: , Author: , Publisher: 
+2024-07-17 22:56:58,289 - INFO - Title: , Author: , Publisher: 
+2024-07-17 22:56:58,289 - INFO - Livros adicionados à coleção com sucesso
+2024-07-17 22:56:58,295 - INFO - Dados exportados para books_data.csv
+2024-07-17 22:56:58,329 - INFO - Dados exportados para books_data.xlsx
+2024-07-17 22:57:00,662 - INFO - Automação bookstore finalizada
+2024-07-17 22:57:00,662 - INFO - Todas as automações finalizadas
+2024-07-17 22:57:00,663 - INFO - 127.0.0.1 - - [17/Jul/2024 22:57:00] "[32mPOST /login HTTP/1.1[0m" 302 -
+2024-07-17 22:57:00,676 - INFO - 127.0.0.1 - - [17/Jul/2024 22:57:00] "GET / HTTP/1.1" 200 -
+2024-07-17 22:57:00,727 - INFO - 127.0.0.1 - - [17/Jul/2024 22:57:00] "[36mGET /static/style.css HTTP/1.1[0m" 304 -
