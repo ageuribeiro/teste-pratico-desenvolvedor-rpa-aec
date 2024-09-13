@@ -1,10 +1,13 @@
-# Documentação do Projeto
+# Teste prático para cargo de Desenvolvedor RPA Pleno na empresa A&C
 
-## Introdução
+## DESCRIÇÃO
+- Este projeto é um aplicativo web desenvolvido em Python utilizando Flask e SQLAlchemy, com automação de tarefas usando Selenium. O objetivo é criar um sistema que permita login de usuários, realizar automação de navegação e exportação de dados para um banco de dados e arquivos CSV/Excel.
 
-Este projeto é um aplicativo web desenvolvido em Python utilizando Flask e SQLAlchemy, com automação de tarefas usando Selenium. O objetivo é criar um sistema que permita login de usuários, realizar automação de navegação e exportação de dados para um banco de dados e arquivos CSV/Excel.
+## TECNOLOGIAS UTILIZADAS
+-  Linguagens: Python
+-  Bibliotecas: Selenium e Beautiful Soup 4
 
-## Estrutura do Projeto
+## ESTRUTURA DO PROJETO
 
 - `app.py`: Arquivo principal do aplicativo Flask.
 - `libraries.py`: Arquivo contendo as importações de bibliotecas.
